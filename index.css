@@ -58,6 +58,30 @@ html {
 .whatsapp-btn {
   position: fixed;
   bottom: 1.25rem;
-  right: 1.25rem;
+  right: 1.5rem;
   z-index: 999;
 }
+
+.icon-social {
+  font-size: 2rem;
+  color: #000;
+}
+
+.icon-social:hover {
+  font-size: 2.25rem;
+  color: gray
+}
+
+.footer {
+    padding: 2.5rem 0;
+    color: black;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.footer p:last-child {
+    margin-bottom: 0;
+}
+
+
