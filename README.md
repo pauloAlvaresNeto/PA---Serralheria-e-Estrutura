@@ -1,34 +1,65 @@
-# Paulo Alvares J. – Estruturas e Serralheria
-Site institucional desenvolvido para divulgação dos serviços prestados por Paulo Alvares Junior, profissional da área de estruturas metálicas e serralheria.
+# Paulo Alvares J. — Estruturas e Serralheria
 
----
-## Sobre o Projeto
-Este projeto consiste em um site institucional one page, totalmente responsivo, com foco em:
+Site institucional desenvolvido para **Paulo Alvares Junior**, profissional da área de estruturas metálicas e serralheria.
 
-Apresentação clara dos serviços
+[🌐 Acessar o site](https://pauloalvaresneto.github.io/PA---Serralheria-e-Estrutura/)
 
-Facilidade de navegação
+## Sobre o projeto
 
-Acessibilidade
+O projeto foi criado para estabelecer uma presença digital profissional para o negócio, apresentar os serviços de forma clara e facilitar o contato de novos clientes.
 
-Contato rápido para novos clientes
+A proposta foi construir uma experiência simples e objetiva, com navegação direta, adaptação para diferentes tamanhos de tela e foco nas informações que um potencial cliente procura antes de solicitar um orçamento.
 
-O objetivo principal é fortalecer a presença digital do cliente e facilitar a captação de novos serviços.
+## Principais objetivos
 
----
-## Tecnologias Utilizadas
-HTML5
+- Apresentar os serviços oferecidos de forma clara;
+- fortalecer a presença digital do profissional;
+- facilitar a navegação e o acesso às informações;
+- oferecer um caminho rápido para contato;
+- funcionar adequadamente em dispositivos móveis e desktop.
 
-CSS3
+## Tecnologias utilizadas
 
-JavaScript
+- **HTML5** — estrutura e conteúdo;
+- **CSS3** — estilização e responsividade;
+- **JavaScript** — comportamentos e interações;
+- **Bootstrap** — apoio à construção da interface responsiva;
+- **Font Awesome** — iconografia.
 
-Bootstrap
+## Estrutura do projeto
 
-Font Awesome
+```text
+PA---Serralheria-e-Estrutura/
+├── css/        # Estilos da aplicação
+├── img/        # Imagens utilizadas no site
+├── js/         # Scripts e interações
+├── index.html  # Página principal
+└── README.md
+```
 
----
-## Preview
-Você pode acessar em:
-https://pauloalvaresneto.github.io/dad_project/
+## Executando localmente
 
+O projeto é estático e não exige instalação de dependências.
+
+```bash
+git clone https://github.com/pauloAlvaresNeto/PA---Serralheria-e-Estrutura.git
+cd PA---Serralheria-e-Estrutura
+```
+
+Depois, basta abrir o arquivo `index.html` no navegador ou utilizar uma extensão como Live Server.
+
+## Publicação
+
+O projeto está publicado com **GitHub Pages** a partir da branch `main`.
+
+**Site:** https://pauloalvaresneto.github.io/PA---Serralheria-e-Estrutura/
+
+## Autor
+
+Desenvolvido por **Paulo Alvares Neto**.
+
+Este repositório faz parte do meu portfólio de projetos desenvolvidos para negócios reais.
+
+## Uso do código
+
+O código está disponível publicamente para fins de apresentação e portfólio. Este projeto não possui licença open source que autorize redistribuição ou uso comercial do código.
